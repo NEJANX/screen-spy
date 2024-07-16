@@ -1,4 +1,4 @@
-# screen-spy
+# Screen Spyware
 Cross-Platform Screen Spy tool built with Python
 
 ```sh
